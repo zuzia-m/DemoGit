@@ -1,2 +1,2 @@
 ﻿Console.WriteLine("Hello Zuzia");
-Console.WriteLine("");
+Console.WriteLine("Hi Zuzia!");
