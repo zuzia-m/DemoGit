@@ -1,2 +1,2 @@
-﻿Console.WriteLine("Hello Zuzia");
-Console.WriteLine("Hi Zuzia!");
+﻿Console.WriteLine("Hi everyone!");
+Console.WriteLine("I am a programmer!");
