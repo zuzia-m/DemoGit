@@ -8,5 +8,10 @@
         {
             Name = name;
         }
+
+        public void WriteLineName()
+        {
+            Console.WriteLine($"Imię to: {Name}");
+        }
     }
 }
