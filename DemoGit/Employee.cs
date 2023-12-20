@@ -11,7 +11,7 @@
 
         public void WriteLineName()
         {
-            Console.WriteLine($"Imię to: {Name}");
+            Console.WriteLine($"Name is: {Name}");
         }
     }
 }
