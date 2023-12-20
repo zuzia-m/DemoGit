@@ -1,8 +1,8 @@
 ﻿using DemoGit;
 
-Console.WriteLine("Hi all");
+Console.WriteLine("Hi everyone!");
 
-var employee = new Employee("Adam");
+var employee = new Employee("Damian");
 employee.WriteLineName();
 
-Console.WriteLine("Hello!");
+Console.WriteLine("Goodbye!!");
